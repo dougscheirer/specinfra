@@ -20,6 +20,7 @@ module Specinfra
         :docker_url,
         :lxc,
         :request_pty,
+        :salt,
         :ssh_options,
         :ssh_without_env,
         :dockerfile_finalizer,
